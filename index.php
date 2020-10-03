@@ -728,23 +728,7 @@
                 </div>
 
                 <div class="footer-lang-changer">
-                    <div class="lang-changer-drop-up">
-                        <a class="menu-btn-changer" role="button" id="dropupmenulagchanger" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#"><i class="fas fa-globe-asia"></i> english</a>
-                        <div class="dropdown-menu dropupmenulagchanger" aria-labelledby="dropupmenulagchanger">
-                            <a class="dropdown-item" href="#">english</a>
-                            <a class="dropdown-item" href="#">العربية</a>
-                            <a class="dropdown-item" href="#">Español</a>
-                            <a class="dropdown-item" href="#">Nederlands</a>
-                            <a class="dropdown-item" href="#">Français</a>
-                            <a class="dropdown-item" href="#">Dansk</a>
-                            <a class="dropdown-item" href="#">Português</a>
-                            <a class="dropdown-item" href="#">Deutsch</a>
-                        </div>
-                    </div>
-
-                    <div class="lang-changer-drop-up">
-                        <a class="menu-btn-changer" href="#"><img src="img/flags/usa.svg" alt="" /> united states</a>
-                    </div>
+                    <a href='http://www.greengeeks.com' alt='GreenGeeks' rel='nofollow'><img src='https://ads.greengeeks.com/Green_14.png' border='0'></a>
                 </div>
             </div>
         </div>
