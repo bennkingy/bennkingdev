@@ -194,7 +194,7 @@
                 <div class="carousel-cell">
                     <h3 class="mt-3 main-header-text-title"><span>Start your company's website here</span>choose your domain name</h3>
 					<div class="row justify-content-center domain-search-row">
-                        <form  action="http://www.bennking.dev/whmcs/cart.php?a=add&domain=register"  method="post" id="domain-search-header" class="col-md-7">
+                        <form action="https://www.bennking.dev/whmcs/cart.php?a=add&domain=register" method="post" id="domain-search-header" class="col-md-7">
                             <i class="fas fa-globe"></i>
                             <input type="text" placeholder="example: www.yourwebsite.co.uk" id="domain" name="query">
                             <span class="inline-button-domain-order">
